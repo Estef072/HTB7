@@ -1,0 +1,6 @@
+hello,hola,holaf
+are,estan,estanf
+chiken,Pollo,poulet
+dog,perro,chien
+me,mi,moi 
+ugly,feo,moche
